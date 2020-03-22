@@ -1,5 +1,5 @@
 # Maze
-A Automated Heap Feng Shui Tool
+An Automated Heap Feng Shui Tool
 
 * Support automated primitives extraction and primitive semantics analysis.
 * Robust against heap layout primitive noises.
