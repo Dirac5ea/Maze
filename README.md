@@ -5,4 +5,5 @@ An Automated Heap Feng Shui Tool
 * Robust against heap layout primitive noises.
 * Able to generate complicated heap layouts with multi-object constraints for a wide range of heap allocators.
 * ...
-# Coming soon....
+
+Please contact wangy0129@gmail.com to get the source code. :P
